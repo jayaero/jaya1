@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <img src="https://jiocinemaweb.cdn.jio.com/jioimages.cdn.jio.com/content/entry/dynamiccontent/thumbs/400/-/0/15/2/92fd25a0b4ca11ec8ec6653f060ba240_1649253321783_p_medium.jpg" alt="dasvi movie">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4">
+                  <a href="https://www.jiocinema.com/watch/movies/dasvi/0/0/92fd25a0b4ca11ec8ec6653f060ba240/0/0">Click here</a>
+            </div>
+        </div>
+        <div class="row"></div>
+    </div>
+    <div></div>
+    <div></div>
+</body>
